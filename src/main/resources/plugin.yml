@@ -1,0 +1,8 @@
+name: ParticleEffects
+version: 1.0.0
+author: SpringHat
+description: ParticleEffects is a library for particle effects.
+website: http://springhat.github.io
+
+main: io.github.springhat.particleeffects.ParticleEffects
+depend: [ProtocolLib]
