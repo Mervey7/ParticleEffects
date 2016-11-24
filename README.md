@@ -1,5 +1,5 @@
 # ParticleEffects
-ParticleEffects is a library for particle effects.
+> ParticleEffects is a library for particle effects.
 
 ## Dependencies ##
 * ProtocolLib
