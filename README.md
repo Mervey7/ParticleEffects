@@ -6,9 +6,9 @@
 
 ## Usage ##
 
-* `play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, double range)`
-* `play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, Player... players)`
-* `play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, List<Player> players)`
+* `ParticleProtocol102.play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, double range)`
+* `ParticleProtocol102.play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, Player... players)`
+* `ParticleProtocol102.play(ParticleType type, Location location, boolean longDistance, float speed, int amount, float offsetX, float offsetY, float offsetZ, List<Player> players)`
 
 ### Example ###
 
